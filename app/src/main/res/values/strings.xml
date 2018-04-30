@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClaboSample</string>
+    <string name="label_back">戻る</string>
+    <string name="label_help">?</string>
+
+    <string name="menu_menu">menu</string>
+
+
+</resources>
